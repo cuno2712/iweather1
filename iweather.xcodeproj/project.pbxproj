@@ -15,7 +15,6 @@
 		2769ABA81CA3005F000F7656 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2769ABA61CA3005F000F7656 /* LaunchScreen.storyboard */; };
 		2769ABB31CA3005F000F7656 /* iweatherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2769ABB21CA3005F000F7656 /* iweatherTests.m */; };
 		2769ABBE1CA3005F000F7656 /* iweatherUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2769ABBD1CA3005F000F7656 /* iweatherUITests.m */; };
-		27A488801CA4400F008CD316 /* launchscreen.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 27A4887F1CA4400F008CD316 /* launchscreen.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		2769ABB91CA3005F000F7656 /* iweatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iweatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2769ABBD1CA3005F000F7656 /* iweatherUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iweatherUITests.m; sourceTree = "<group>"; };
 		2769ABBF1CA3005F000F7656 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		27A4887F1CA4400F008CD316 /* launchscreen.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = launchscreen.jpeg; path = ../../../Downloads/launchscreen.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 		2769AB971CA3005F000F7656 /* iweather */ = {
 			isa = PBXGroup;
 			children = (
-				27A4887F1CA4400F008CD316 /* launchscreen.jpeg */,
 				2769AB9B1CA3005F000F7656 /* AppDelegate.h */,
 				2769AB9C1CA3005F000F7656 /* AppDelegate.m */,
 				2769AB9E1CA3005F000F7656 /* ViewController.h */,
@@ -254,7 +251,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27A488801CA4400F008CD316 /* launchscreen.jpeg in Resources */,
 				2769ABA81CA3005F000F7656 /* LaunchScreen.storyboard in Resources */,
 				2769ABA51CA3005F000F7656 /* Assets.xcassets in Resources */,
 				2769ABA31CA3005F000F7656 /* Main.storyboard in Resources */,
